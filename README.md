@@ -2,7 +2,7 @@
 - 👀 I’m interested in Math, Machine Learning, Deep Learning and NLP
 - 🌱 I’m currently learning Advanced NLP & Data Engineering
 - 💞️ I’m looking to collaborate on End-to-End ML projects
-- 📫 How to reach me kattaanudeepreddy@gmail.com
+- 📫 Reach me out on kattaanudeepreddy@gmail.com
 
 <!---
 AnudeepReddy-Katta/AnudeepReddy-Katta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
