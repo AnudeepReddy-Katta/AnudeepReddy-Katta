@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnudeepReddy-Katta
 - 👀 I’m interested in Math, Machine Learning, Deep Learning and NLP
-- 🌱 I’m currently learning Advanced NLP & Data Engineering
+- 🌱 I’m currently learning Advanced NLP
 - 💞️ I’m looking to collaborate on End-to-End ML projects
 - 📫 Reach me out on kattaanudeepreddy@gmail.com
 
